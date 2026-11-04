@@ -1,0 +1,14 @@
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\bin\Debug\net10.0\SocketConsoleApp.exe
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\bin\Debug\net10.0\SocketConsoleApp.deps.json
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\bin\Debug\net10.0\SocketConsoleApp.runtimeconfig.json
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\bin\Debug\net10.0\SocketConsoleApp.dll
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\bin\Debug\net10.0\SocketConsoleApp.pdb
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\obj\Debug\net10.0\SocketConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\obj\Debug\net10.0\SocketConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\obj\Debug\net10.0\SocketConsoleApp.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\obj\Debug\net10.0\SocketConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\obj\Debug\net10.0\SocketConsoleApp.dll
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\obj\Debug\net10.0\refint\SocketConsoleApp.dll
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\obj\Debug\net10.0\SocketConsoleApp.pdb
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\obj\Debug\net10.0\SocketConsoleApp.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Новая папка\SocketConsoleApp\obj\Debug\net10.0\ref\SocketConsoleApp.dll
